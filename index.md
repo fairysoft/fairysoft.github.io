@@ -1,4 +1,4 @@
-# [WIP] Jordan Tremaine's IT Portfolio
+# WIP Jordan Tremaine's IT Portfolio
 
 
 ### About me
@@ -14,76 +14,66 @@ So when an acquaintance asked me to manage the creation of his IT startup I lept
 
 This is a portfolio to highlight my achievements in 2019, and my aspirations for the future.
 
-# Core Strengths
+# 4 Strengths I learned I had
 
 ## Scripting
 
-I regularly look for opportunities to automate processes and collect data using scripts. I've used PowerShell to assemble complex file structures, audit objects, and script user creation in AD and Office 365. I've used Python to scrape data from Cisco APs using telnet, process results and email accordingly. 
-
+I regularly look for opportunities to automate processes and collect data using scripts. I've used PowerShell to assemble complex file structures, audit objects, and script user creation in AD and Office 365. I've used Python to scrape data from Cisco APs using telnet, then process results and email accordingly. 
+```
+I built an executable that calculates addressing schemes when provided subnet requirements.
+```
 ![](https://raw.githubusercontent.com/fairysoft/fairysoft.github.io/master/img-subnet.png)
 
-Built an executable that calculated an addressing scheme when provided subnet requirements.
+```
+I built a multi-threaded 2 player game ‘Kings vs Boars using Tkinter and TCP’
+```
+
 
 ![](https://raw.githubusercontent.com/fairysoft/fairysoft.github.io/master/img-kvb.png)
 
-Built a multi-threaded P2P game ‘Kings vs Boars’. Users play against each other using sockets over TCP, while the GUI displays in game events and player statistics. Both the GUI and TCP required multi-threading for loop concurrency. 
 
-```
-“Project was very ambitious and congratulations on producing an entertaining game. I can see you have worked very hard, have demonstrated required skills and used your imagination to extend your skills into advanced areas” 
-```
--Lyndy Vella, Python Lecturer
+
+
+>“Project was very ambitious and congratulations on producing an entertaining game. I can see you have worked very hard, have demonstrated required skills and used your imagination to extend your skills into advanced areas” 
+**Lyndy Vella, Python Lecturer**
 
 
    
 ## Networking
 
-I approach network protocols with a deep dive mindset. This enables a logic driven approach to configuration and troubleshooting, to ensure business capability. 
-
-During my year at TAFE I implemented over 50 protocols across the OSI reference model to build a variety of SOHO and fortified small enterprise networks. Setting up site-to-site IKEv2/IPSEC VPN with a single IP through NAT was the highlight of these builds.
-
-My homelab consists of a Ubiquiti Edge Router and PFSense Firewall each with a Cisco 3560 L3 Switch for segregation based on zone and VLAN.
+I approach network protocols with a deep dive mindset. This enables a logic driven approach to configuration and troubleshooting, to ensure business capability. My homelab consists of a Ubiquiti Edge Router and PFSense Firewall each with a Cisco 3560 L3 Switch for segregation based on zone and VLAN.
 
 ```
-“Your submission is of high standard. Please keep it for future references. It shows the amount of time and the depth of your research in answering the questions” 
+Using 50 protocols across OSI I built a fortified small enterprise network with 3 Zones and IKEv2/IPSEC VPN
 ```
--Billy, Networking Lecturer
-
-```
-“Stunning...Your answers reflect in-depth understanding of concepts well beyond requirements and show how hard you have worked” 
-```
--Lyndy Vella, Integrated Projects Lecturer
-
 ![Network Addressing](https://raw.githubusercontent.com/fairysoft/fairysoft.github.io/master/img-core.png)
+
+>“Stunning...Your answers reflect in-depth understanding of concepts well beyond requirements and show how hard you have worked” 
+**Lyndy Vella, Integrated Projects Lecturer**>
+
+>“Your submission is of high standard. Please keep it for future references. It shows the amount of time and the depth of your research in answering the questions” 
+**Billy, Networking Lecturer**
 
 
 
 ## Cloud and Office 365
 
-Based on work experience at ‘That Computer Shop’ in Nedlands that heavily favoured O365, I was inspired to go above and beyond during Diploma to match the skill set businesses need.
+Based on work experience at ‘That Computer Shop’ in Nedlands that heavily favoured O365, I was inspired to go above and beyond during Diploma to match the skill set businesses need. Administered 25 user O365 Tenancy using Business Premium Trial. Setup DMARC, DKIM and ARC in Office 365 exchange, as well as S/MIME using x.509, for both the desktop and online versions of Outlook to counter email phishing.
 
-Administered 25 user O365 Tenancy using Business Premium Trial. Used O365 PowerShell Modules and scripts to swiftly configure Tenancy security settings not available in the GUI or Azure, and to automate tasks. 
 
-Setup DMARC, DKIM and ARC in Office 365 exchange, as well as S/MIME using x.509, for both the desktop and online versions of Outlook. These are critical technologies for Email Security, and I am able to understand and apply them to reduce phishing attempts. 
-
-Completed AWS Academy Cloud Foundations in December 2019 to understand Cloud Fundamentals benefits and cost management. 
-
+```
+Used O365 PowerShell Modules and scripts to swiftly script Tenancy configuration
+```
 ![Managing O365 with PS](https://raw.githubusercontent.com/fairysoft/fairysoft.github.io/master/img-o365ps.png)
 
+>“Epic Jordan, your detailed analysis of the protocols is outstanding and the diagrams are stunning. Really beautiful work”
+**Lyndy Vella, Enterprise Communication Lecturer**>
 
-```
-“Very good understanding of concepts and implications of technology” 
-```
--Lyndy Vella, Enterprise Communication Lecturer
 
-```
-“For a new student of Office 365 I was impressed by the knowledge and insights he gained so quickly, I’ve called him several times to ask for his input on technical issues like Hybrid environment syncing”
-```
--Tim Haley, IT Technician SEDA Group
+>“For a new student of Office 365 I was impressed by the knowledge and insights he gained so quickly, I’ve called him several times to ask for his input on technical issues like Hybrid environment syncing”
+**Tim Haley, IT Technician SEDA Group**
 
-```
-“Epic Jordan, your detailed analysis of the protocols is outstanding and the diagrams are stunning. Really beautiful work”
-```
--Lyndy Vella, Enterprise Communication Lecturer
+Completed AWS Academy Cloud Foundations in December 2019 to improve my understanding of Cloud cost management.
 
 
 
@@ -92,21 +82,19 @@ I pride myself on clear and detailed documentation because it’s essential for 
 
 Of all lecturer feedback 24.4% were compliments of professional presentation, and 6.7% was directed at high documentation standards. During volunteering I used PDQ and IT Glue to assist in documentation processors. 
 
-
-```
-“By far, one of the best quality documentation sets I have received in an assessment”
-```
--Natalie Yan, Business Lecturer
-
-```
- “Really good idea to document on GitHub...well documented peer reviewed”
-```
--Lyndy Vella, Integrated Projects Lecturer*
-
-
 ![Business Documentation](https://raw.githubusercontent.com/fairysoft/fairysoft.github.io/master/img-docs.png)
 
-[Example of my Documentation on GitHub](https://github.com/fairysoft/Network-Fairy-Subnet-Designer)
+
+
+>“By far, one of the best quality documentation sets I have received in an assessment”
+**Natalie Yan, Business Lecturer**
+
+
+>“Really good idea to document on GitHub...well documented peer reviewed”
+**Lyndy Vella, Integrated Projects Lecturer**
+
+You can view my Subnet Calculator's Documentation [here](https://github.com/fairysoft/Network-Fairy-Subnet-Designer)
+
 
 # More?
 
@@ -161,3 +149,6 @@ In my position of duty manager at Big W I was first aid qualified, responsible f
 Jordan Tremaine, 2020
 
 jordantremaine@gmail.com
+
+
+

@@ -10,11 +10,17 @@ I pride myself on clear and detailed documentation because it’s essential for 
 
 Of all lecturer feedback 24.4% were compliments of professional presentation, and 6.7% was directed at high documentation standards. During volunteering I used PDQ and IT Glue to assist in documentation processors. 
 
-    “By far, one of the best quality documentation sets I have received in an assessment”* 
+
+    “By far, one of the best quality documentation sets I have received in an assessment”
+ 
+ 
  *-Natalie Yan, Lecturer*
 
-    “Really good idea to document on GitHub...well documented peer reviewed”* 
+
+    “Really good idea to document on GitHub...well documented peer reviewed”
+ 
  *-Lyndy Vella, Lecturer*
+
 
 ![Business Documentation](https://raw.githubusercontent.com/fairysoft/fairysoft.github.io/master/img-docs.png)
 
